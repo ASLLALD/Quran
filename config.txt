@@ -1,6 +1,6 @@
 owner=529744078007566336
-prefix=!
-game=!play
+prefix=q=
+game=Play Quran
 stayinchannel=true
 songinstatus=false
-token=NTQzMDIxNjQ5NjI5NDEzMzc2.Dz2f_A.jIbo07dHBPxpl4roE2tZKfMQPZ8
+token=NTQ2MzA2Nzk4ODA2ODkyNTU0.D0mT6A.08oy5U6y2cJIrfVA2z4o1rYU6DA
